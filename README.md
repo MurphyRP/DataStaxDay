@@ -1,4 +1,4 @@
-https://github.com/mitchell-h/DataStaxDay/blob/master/README.md
+https://github.com/MurphyRP/DataStaxDay/blob/master/README.md
 
 
 Raffle: http://goo.gl/forms/oEq1hfiQMa
